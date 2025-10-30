@@ -2,3 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
+langchain
+openai
+python-dotenv
+autogenstudio
+langchain-openai
+langchain-community==0.3.11
+langchain-chroma==0.1.4
